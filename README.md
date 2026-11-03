@@ -15,4 +15,4 @@ almost exactly for a **PERFECT** drop: it snaps, chimes (pitch climbs with your 
   saved best score
 - All sound effects are synthesised at runtime (no asset files)
 
-Open this folder in Android Studio (Hedgehog+) and run, or `gradle assembleDebug` with the Android SDK.
+Open this folder in Android Studio (Hedgehog+) and run. CI (`.github/workflows/build-apk.yml`) builds a debug APK on every push; download it from the run's Artifacts.
